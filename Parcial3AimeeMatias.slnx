@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Bcrypt/Bcrypt.csproj" />
   <Project Path="EjecutarScript/EjecutarScript.csproj" />
   <Project Path="Parcial3AimeeMatias/Parcial3AimeeMatias.csproj" />
 </Solution>
